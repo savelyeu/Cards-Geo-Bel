@@ -33,9 +33,9 @@ def next_card():
     v_button.config(image=v_image)
 
 def flip_card():
-    can.itemconfig(mova, text="Bielaruskaja", fill=COLOR_TEXT)
-    can.itemconfig(slova, text=current_card["Беларуская"], fill=COLOR_TEXT)
-    #For the Latin alphabet replace "Беларуская" with "Kryvian"
+    can.itemconfig(mova, text="Беларуская", fill=COLOR_TEXT)
+    can.itemconfig(slova, text=current_card["Belarusian"], fill=COLOR_TEXT)
+    #For the Latin alphabet replace "Belarusian" with "Kryvian"
     can.itemconfig(background, image=back_image)
     x_button.config(image=x_image_fliped)
     v_button.config(image=v_image_fliped)
