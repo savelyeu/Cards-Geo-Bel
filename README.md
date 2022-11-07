@@ -1,2 +1,2 @@
 # Cards-Geo-Bel
-Cards Game. Georgian - Belarusian
+Cards Game. Georgian (geo)- Belarusian (bel)
